@@ -1,0 +1,14 @@
+newmtl lambert6SG
+map_Kd lambert6SG_albedo.jpg
+
+newmtl lambert5SG
+map_Kd lambert5SG_albedo.jpg
+
+newmtl lambert4SG
+map_Kd lambert4SG_albedo.jpg
+
+newmtl lambert3SG
+map_Kd lambert3SG_albedo.jpg
+
+newmtl lambert2SG
+map_Kd lambert2SG_albedo.jpg
