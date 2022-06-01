@@ -237,7 +237,7 @@ void startGame(){
   if(finJuego) enseñarMensajePerdiste();
   if(winGame) enseñarMensajeGanaste();
   
-  if(segundos == 55 && minutos == 4){
+  if(segundos == 0 && minutos == 0){
     cam.position.x = 530.982;
     cam.position.z = 555.951;
     cam.pan = 4.7202444;           
